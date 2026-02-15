@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 Currently working on:<br>DSA in Java • Daily LeetCode & GFG practice • Strengthening problem-solving skills<br>👯 Open to collaborate on:<br>Open-source Java projects • DSA study groups • Beginner backend projects<br>🤝 Seeking guidance in:<br>Advanced Graph algorithms • Dynamic Programming patterns • System Design fundamentals<br>🌱 Currently exploring:<br>Graphs • Recursion & Backtracking • Clean Code principles
+🔭 Currently working on:<br>DSA in Java 
+• Daily LeetCode & GFG practice 
+• Strengthening problem-solving skills
+<br>👯 Open to collaborate on:<br>
+Open-source Java projects 
+• DSA study groups 
+• Beginner backend projects
+<br>🤝 Seeking guidance in:
+<br>Advanced Graph algorithms 
+• Dynamic Programming patterns 
+• System Design fundamentals
+<br>🌱 Currently exploring:
+<br>Graphs • Recursion & Backtracking • Clean Code principles
 
 
 ## 🌐 Socials:
