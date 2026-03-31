@@ -28,8 +28,12 @@ Open-source Java projects
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=amanrazz07&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com?user=amanrazz07&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=amanrazz07&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&count_private=true" height="170"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanrazz07&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amanrazz07&theme=tokyonight&hide_border=false&border_radius=12" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrazz07&layout=compact&theme=tokyonight&hide_border=false&border_radius=12" height="170"/>
+
+</div>
