@@ -30,15 +30,15 @@ Open-source Java projects
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=amanrazz07&theme=tokyonight&hide_border=false&border_radius=15" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amanrazz07&theme=tokyonight&hide_border=false&border_radius=15&cache_seconds=1800" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=amanrazz07&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amanrazz07&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15&count_private=true&include_all_commits=true&cache_seconds=1800" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrazz07&layout=compact&theme=tokyonight&hide_border=false&border_radius=15" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrazz07&layout=compact&theme=tokyonight&hide_border=false&border_radius=15&cache_seconds=1800" height="170"/>
 
-<br><br>
+</div>
 
 <img src="https://visitcount.itsvg.in/api?id=amanrazz07&icon=5&color=6" />
 
