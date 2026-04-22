@@ -1,7 +1,12 @@
-# 💫 About Me:
- Currently working on:<br>DSA in Java 
-• Daily LeetCode & GFG practice 
-• Strengthening problem-solving skills
+💫 About Me:
+
+🚀 Currently focused on building strong problem-solving skills through consistent practice and deep understanding of concepts.
+
+💻 Actively working on:
+• Data Structures & Algorithms (DSA) in Java
+• Solving daily problems on LeetCode & GeeksforGeeks
+• Improving coding efficiency, logic building, and optimization techniques
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aman_razz07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-btech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arazz5349@gmail.com) 
