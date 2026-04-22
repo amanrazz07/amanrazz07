@@ -1,18 +1,7 @@
 # 💫 About Me:
-🔭 Currently working on:<br>DSA in Java 
+ Currently working on:<br>DSA in Java 
 • Daily LeetCode & GFG practice 
 • Strengthening problem-solving skills
-<br>👯 Open to collaborate on:<br>
-Open-source Java projects 
-• DSA study groups 
-• Beginner backend projects
-<br>🤝 Seeking guidance in:
-<br>Advanced Graph algorithms 
-• Dynamic Programming patterns 
-• System Design fundamentals
-<br>🌱 Currently exploring:
-<br>Graphs • Recursion & Backtracking • Clean Code principles
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aman_razz07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-btech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arazz5349@gmail.com) 
