@@ -1,11 +1,12 @@
-💫 About Me:
+# 💫 About Me:
 
 🚀 Currently focused on building strong problem-solving skills through consistent practice and deep understanding of concepts.
 
 💻 Actively working on:
-• Data Structures & Algorithms (DSA) in Java
-• Solving daily problems on LeetCode & GeeksforGeeks
+• Data Structures & Algorithms (DSA) in Java<br>
+• Solving daily problems on LeetCode & GeeksforGeeks<br>
 • Improving coding efficiency, logic building, and optimization techniques
+
 
 
 ## 🌐 Socials:
