@@ -25,4 +25,4 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=amanrazz07&theme=radical&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanrazz07&layout=compact&theme=radical&hide_border=true)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanrazz07&layout=compact&theme=radical&hide_border=true)-->
