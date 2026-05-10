@@ -1,4 +1,4 @@
-# 💫 About Me:                              amankumar.online
+# 💫 About Me:
 
 🚀 Currently focused on building strong problem-solving skills through consistent practice and deep understanding of concepts.
 
