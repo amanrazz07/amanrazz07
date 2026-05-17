@@ -74,12 +74,6 @@ Pattern-based, topic-organized problem-solving journal — not a random code dum
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amanrazz07&theme=radical&hide_border=true)
-
----
-
 ## 📈 Problem Solving Stats
 
 | Platform | Solved | Notes |
