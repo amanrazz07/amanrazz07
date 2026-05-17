@@ -4,7 +4,6 @@
 
 [![Open to Remote Internships](https://img.shields.io/badge/Open%20to-Remote%20Internships-2ea043?style=flat-square)](mailto:arazz5349@gmail.com)
 [![Open to Freelance](https://img.shields.io/badge/Open%20to-Freelance-388bfd?style=flat-square)](mailto:arazz5349@gmail.com)
-[![SIH 2025 Top 25](https://img.shields.io/badge/SIH%202025-Top%2025%20Teams-e3b341?style=flat-square)](#)
 [![500+ DSA Problems](https://img.shields.io/badge/DSA-500%2B%20Problems%20Solved-bc8cff?style=flat-square)](#)
 
 ---
@@ -15,7 +14,6 @@ I'm a backend-focused developer with a strong foundation in Java, MySQL, and Dat
 
 - 🔭 Currently building a **Multi-Vendor E-Commerce Platform** (Java + REST APIs + MySQL)
 - 🧠 Core focus: **Java Backend · System Design · DSA**
-- 🏆 Smart India Hackathon 2025 — **Top 25 Teams Finalist**
 - 💬 Ask me about: Java, JDBC, REST APIs, OOP, DBMS, backend system design
 - 📫 Reach me: [arazz5349@gmail.com](mailto:arazz5349@gmail.com) · [LinkedIn](https://linkedin.com/in/aman-kumar-btech) · [Portfolio](https://amankumar.online)
 
