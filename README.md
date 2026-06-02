@@ -73,19 +73,9 @@ Pattern-based, topic-organized problem-solving journal — not a random code dum
 - [View on GitHub →](https://github.com/amanrazz07/leetcode-dsa)
 
 ---
-
-## 📈 Problem Solving Stats
-
-| Platform | Solved | Notes |
-|---|---|---|
-| LeetCode + GFG + CodeChef | 500+ | Arrays, Trees, DP, Graphs |
-| CodeChef | 1000+ rating | Consistent contest participation |
-
----
-
 ## 🏆 Achievements
 
-- 🥇 **Smart India Hackathon 2025** — Top 25 Teams Finalist (national level)
+- 🥇 **Smart India Hackathon 2025** — Participant
 - 🎯 **GDG Hackathon 2026** — Participant
 - 🛡️ **Cybersecurity Club** — Active Member, Galgotias University
 - ☁️ **Networking & Cloud Intern** — EduSkills (AICTE Virtual, Jul–Sep 2025)
