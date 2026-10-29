@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aman Kumar
 
-**Java Backend Developer · DSA Enthusiast · B.Tech CSE '27 @ Galgotias University, Greater Noida**
+**Frontend Developer · DSA Enthusiast · B.Tech CSE '27 @ Galgotias University, Greater Noida**
 
 [![Open to Remote Internships](https://img.shields.io/badge/Open%20to-Remote%20Internships-2ea043?style=flat-square)](mailto:arazz5349@gmail.com)
 [![Open to Freelance](https://img.shields.io/badge/Open%20to-Freelance-388bfd?style=flat-square)](mailto:arazz5349@gmail.com)
@@ -10,24 +10,16 @@
 
 ## 🚀 About Me
 
-I'm a backend-focused developer with a strong foundation in Java, MySQL, and Data Structures & Algorithms. I build secure, scalable backend systems and solve problems daily on LeetCode, CodeChef, and GeeksforGeeks.
+I'm a frontend developer with a strong foundation in Java, MySQL, and Data Structures & Algorithms (DSA). I build responsive, user-friendly web interfaces using HTML, CSS, and JavaScript, while continuously sharpening my problem-solving skills on LeetCode, CodeChef, and GeeksforGeeks.
 
-- 🔭 Currently building a **Multi-Vendor E-Commerce Platform** (Java + REST APIs + MySQL)
-- 🧠 Core focus: **Java Backend · System Design · DSA**
-- 💬 Ask me about: Java, JDBC, REST APIs, OOP, DBMS, backend system design
 - 📫 Reach me: [arazz5349@gmail.com](mailto:arazz5349@gmail.com) · [LinkedIn](https://linkedin.com/in/aman-kumar-btech) · [Portfolio](https://amankumar.online)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Primary:**
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
-
-**Also working with:**
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -40,7 +32,7 @@ I'm a backend-focused developer with a strong foundation in Java, MySQL, and Dat
 ## 📦 Featured Projects
 
 ### 🛒 Multi-Vendor E-Commerce Platform *(In Progress — 2026)*
-> Java · MySQL · REST API · OOP
+> Java · MySQL · PRICE COMPARISION · OOP
 
 Full-featured marketplace backend supporting multiple sellers, buyers, and admins on a single system.
 
